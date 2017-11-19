@@ -1,0 +1,21 @@
+-----flick theme credits------
+
+1- bootstrap - http://getbootstrap.com/getting-started/#download
+2- jquery - http://jquery.com/
+3- jquery easing - http://gsgd.co.uk/sandbox/jquery/easing/
+4- counters - http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js
+5- wow animation plugin - http://mynameismatthieu.com/WOW/docs.html
+6- bootstrap on hover dropdown - http://cameronspear.com/blog/bootstrap-dropdown-on-hover-plugin/
+7- mix it up portfolio - https://mixitup.kunkalabs.com/
+8- video background - http://pupunzi.com
+9- http://www.woothemes.com/flexslider/
+10- parallax backgrounds - http://markdalgleish.com/projects/stellar.js/
+11- owl carousel - http://owlgraphic.com/owlcarousel/
+12- magnific popups - http://dimsemenov.com/plugins/magnific-popup/
+
+---------images-------------
+
+(all images use for demo purpose only)
+
+1-portfolio images - http://www.gratisography.com/
+2-backgrounds - http://pixabay.com/
