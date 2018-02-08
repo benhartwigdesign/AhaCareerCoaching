@@ -40,3 +40,10 @@
   -webkit-animation: bounce 8s infinite;
   animation: bounce 8s infinite;
 }
+
+.light-text {
+	color: #5e7692;
+}
+.lighter-text {
+	color: #c2ccd8;
+}

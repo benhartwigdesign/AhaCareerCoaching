@@ -1326,6 +1326,8 @@ aside .thumb figure {
 	width: 100%;
 	padding-top: 30px;
 	padding-bottom: 30px;
+	padding-left: 0;
+	padding-right: 0;
 	border-bottom: 1px solid #E6E9ED;
 }
 .navbar-collapse.collapse.animate {
@@ -1351,7 +1353,7 @@ aside .thumb figure {
 	font-weight: 700;
 	text-transform: uppercase;
 	color: #364454;
-	padding: 15px 20px;
+	padding: 15px;
 	border: 1px solid rgba(255,255,255,0);
 	border-radius: 3px;
 	bottom: -1px;
